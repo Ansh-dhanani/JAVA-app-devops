@@ -15,7 +15,7 @@ End-to-end **CI/CD & GitOps Pipeline on AWS** — from source-code commit to Kub
 
 ## Architecture Flow
 
-![Architecture Flow](image.png)
+![Architecture Flow](Architecture.png)
 
 ## Pipeline
 
